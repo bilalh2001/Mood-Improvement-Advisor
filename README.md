@@ -1,4 +1,4 @@
-<h1>Mood Improvement Advisor - Java Application</h1>
+<h1>Mood Improvement Advisor </h1>
 
 <h2>Description</h2>
 Project consists of a Java application that provides personalized recommendations to enhance mood based on user input. The tool processes user responses to offer actionable advice for improving emotional well-being.
